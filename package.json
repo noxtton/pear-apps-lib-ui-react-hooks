@@ -1,6 +1,6 @@
 {
   "name": "pear-apps-lib-ui-react-hooks",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "type": "module",
   "description": "hooks for Pearpass",
   "main": "src/index.js",
